@@ -1,4 +1,4 @@
-# Transfer LEarning
+# Transfer Learning
 
 This project is the implementation of the learning protocol in the paper _"Using transfer learning to detect galaxy mergers"_. This code can be used to exactly replicate the results of the paper with the original merger dataset, or for training with a completely new dataset.
 
