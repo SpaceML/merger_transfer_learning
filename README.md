@@ -23,7 +23,7 @@ cd  merger_transfer_learning/
 
 ### Directory structure for dataset
 The original dataset can be found in this Google Drive folder:
-```https://drive.google.com/open?id=1klSL9wZs3cZqAqmvFJVHxkPyXCbXN0-j```
+https://drive.google.com/open?id=1klSL9wZs3cZqAqmvFJVHxkPyXCbXN0-j
 
 The code assumes a directory structure like the following one:
 
